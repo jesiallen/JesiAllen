@@ -1,0 +1,9 @@
+.layout__grid--home{
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    grid-template-rows: auto;
+    gap: 0;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}

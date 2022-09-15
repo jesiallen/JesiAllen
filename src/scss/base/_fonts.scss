@@ -1,0 +1,16 @@
+// font families
+::selection {
+    background: var(--color-body);
+    color: #fff;
+  }
+  html {
+    font-size: 65.5%;
+  }
+  body {
+    font-family: "Inter", Arial, Helvetica, sans-serif;
+    font-size: 2.4rem;
+    line-height: 1.5;
+    color: var(--color-body);
+  }
+  
+  
